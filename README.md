@@ -1,3 +1,5 @@
 # ai_agent_teams
 
 今天研究了一下claude的agent teams，感觉还是玩具级别，并且肉眼可见的消耗token
+
+用tmux可以把各个agent放到一个窗口里面，看上去确实有点意思，但灵活性不佳
